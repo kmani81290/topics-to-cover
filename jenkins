@@ -1,0 +1,64 @@
+deploy tool
+ vagrant
+ ansible
+ 
+Integration (build and deploy)
+
+jnkins
+
+Jenkins is a powerful application 
+that allows continuous integration and continuous delivery of projects, regardless of the platform you are working on
+
+Jenkins to build and test your software projects continuously.
+
+
+
+
+jenkins and git, maven, gradle,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first step:
+
+=>docker
+ =>docker run docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins
+  =>jenkins localhost:8080
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
