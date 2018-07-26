@@ -35,6 +35,26 @@ first step:
  =>docker run docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins
   =>jenkins localhost:8080
   
+  
+  
+  
+  
+  
+ vagrant > completed
+ jenkins > web page only
+  
+  need to cover in jenkins
+  
+  
+  
+  jira
+  nginx
+  ansible
+  puppet
+  docker
+  
+ 
+  
 
 
 
